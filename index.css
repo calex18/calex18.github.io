@@ -101,10 +101,10 @@ p {
     margin: auto;
 }
 
-a:link {
+.ao3:link {
     color: black;
 }
 
-a:hover {
+.ao3:hover {
     color: rgb(156, 43, 156)
 }

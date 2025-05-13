@@ -73,14 +73,15 @@ h5 {
 
 figure .mainphoto {
     display: block;
+    width: 1000px;
     margin: auto;
 }
 
 figure .first {
     padding-top: 5px;
     font-size: smaller;
-    margin-left: 22.5%;
     padding-bottom: 50px;
+    text-align: center;
 }
 
 p {
@@ -91,4 +92,19 @@ p {
     font-size: larger;
     font-weight: 200;
     padding-bottom: 20px;
+}
+
+.fictag {
+    padding-top: 5px;
+    text-align: center;
+    font-weight: bold;
+    margin: auto;
+}
+
+a:link {
+    color: black;
+}
+
+a:hover {
+    color: rgb(156, 43, 156)
 }
